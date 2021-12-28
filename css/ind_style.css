@@ -1,0 +1,26 @@
+
+.logo a{
+  color: #000;
+  text-decoration: none;
+}
+.menu ul li{
+  display: inline-block;
+}
+.menu ul li a{
+  padding: 10px 15px;
+  color: #000;
+  text-decoration: none;
+}
+.menu ul li i{
+  margin-right: 2px;
+}
+.dsb{
+  padding-left: 0px;
+  margin-top: 05px;
+}
+.dsb a{
+  text-decoration: none;
+}
+.card i{
+  color: #fff;
+}
